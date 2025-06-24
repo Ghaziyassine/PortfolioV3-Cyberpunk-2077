@@ -6,7 +6,7 @@ import { useEffect, useState } from 'react';
 const Hero = () => {
   const [glitchText, setGlitchText] = useState('Ghazi Yassine');
   const [typedText, setTypedText] = useState('');
-  const fullText = 'Neural Network Engineer // Cloud Architect // Code Synthesizer';
+  const fullText = 'Software Engineer // Cloud Architect // Code Synthesizer';
 
   useEffect(() => {
     const glitchInterval = setInterval(() => {
