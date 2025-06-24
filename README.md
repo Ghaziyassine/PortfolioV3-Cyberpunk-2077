@@ -39,8 +39,8 @@ This portfolio is not just a résumé — it's a **digital experience**. Inspire
 
 ```bash
 # Clone the repo
-git clone https://github.com/your-username/ghazi-tech-showcase.git
-cd ghazi-tech-showcase
+git clone https://github.com/Ghaziyassine/PortfolioV3-Cyberpunk-2077.git
+cd PortfolioV3-Cyberpunk-2077
 
 # Install dependencies
 npm install
