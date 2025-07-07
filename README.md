@@ -30,7 +30,7 @@ This portfolio is not just a résumé — it's a **digital experience**. Inspire
 | Category     | Tools Used                         |
 |--------------|------------------------------------|
 | Frontend     | React, Tailwind CSS, Vite          |
-| Deployment   | Vercel / Lovable.app               |
+| Deployment   |  Lovable.app                       |
 | Fonts & Icons| Google Fonts, Cyberpunk icons      |
 
 ---
